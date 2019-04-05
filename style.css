@@ -1,0 +1,44 @@
+
+a {
+    color: rgb(80, 120, 250);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(20, 30, 250);
+    text-decoration: underline;
+}
+form{
+    width: 60%;
+    border: 1px solid gray;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+
+form input {
+    display: block;
+    width: 80%;
+    margin: auto;
+    border: 3px groove #ddd;
+    font-size: 1em;
+    padding: 0.5em;
+    margin-bottom: 0.2em;
+}
+form input[type="submit"] {
+    width: 50%;
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+h1.title {
+    text-align: center;
+}
+
+.inicial{
+    width: 60%;
+    border: 1px solid gray;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    
+}
